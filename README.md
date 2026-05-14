@@ -51,47 +51,48 @@
 
 # 🚀 Featured Projects
 
-## 🧠 SmartHealth AI
+## 🧠 SmartHealthML
 
-AI-powered disease outbreak prediction and health surveillance platform.
+AI-powered healthcare and disease prediction platform focused on intelligent medical analysis.
 
 ### 🔹 Features
-- Disease outbreak prediction using ML models
-- Interactive dashboard and analytics
-- Real-time monitoring system
-- Flask + React integration
+- Machine Learning based disease prediction
+- Healthcare analytics dashboard
+- Real-time prediction workflow
+- Modern frontend integration
 
 ### 🔹 Tech Stack
-`React` `Flask` `Python` `Machine Learning`
+`TypeScript` `React` `Machine Learning`
 
 ---
 
-## 💳 Banking App
+## 💳 Subscription Tracker
 
-Full-stack banking application with secure transactions and account management.
+A web application for managing and tracking subscriptions efficiently.
 
 ### 🔹 Features
-- Secure authentication system
-- Bank account integration
-- Real-time transaction tracking
-- Money transfer functionality
+- Track active subscriptions
+- Manage recurring payments
+- Dashboard for subscription insights
+- Responsive modern UI
 
 ### 🔹 Tech Stack
-`Next.js` `Appwrite` `Plaid` `Dwolla` `Tailwind CSS`
+`JavaScript` `Node.js` 
 
 ---
 
-## ✈️ TravelIndia
+## 🩺 CancerDetection
 
-Travel and tourism platform for exploring destinations across India.
+Machine Learning project focused on cancer detection and prediction using medical datasets.
 
 ### 🔹 Features
-- Responsive UI
-- Destination exploration
-- Modern travel-focused design
+- Cancer prediction using ML algorithms
+- Data preprocessing and model training
+- Prediction interface
+- Healthcare-focused ML workflow
 
 ### 🔹 Tech Stack
-`React` `Node.js` `Tailwind CSS`
+`Python` `ReactJs` `Flask` 
 
 ---
 
