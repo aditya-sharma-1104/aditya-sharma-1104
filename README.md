@@ -97,7 +97,7 @@ Travel and tourism platform for exploring destinations across India.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-1104&theme=tokyonight" />
 
@@ -105,7 +105,10 @@ Travel and tourism platform for exploring destinations across India.
 
 <img src="https://streak-stats.demolab.com?user=aditya-sharma-1104&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
+
+<br>
+
 ---
 
 ## 📈 Contribution Graph
