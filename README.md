@@ -99,12 +99,13 @@ Travel and tourism platform for exploring destinations across India.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya-sharma-1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-sharma-1104&theme=tokyonight" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=aditya-sharma-1104&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=aditya-sharma-1104&theme=tokyonight&hide_border=true" />
 
 </p>
-
 ---
 
 ## 📈 Contribution Graph
